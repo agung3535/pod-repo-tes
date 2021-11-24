@@ -12,9 +12,9 @@ s.license = { :type => "MIT", :file => "LICENSE" }
  
 s.author = { "Saputra" => "agungdwisaputra8@gmail.com" }
  
-s.homepage = "https://github.com/agung3535/pod-core-tes"
+s.homepage = "https://github.com/agung3535/pod-repo-tes"
  
-s.source = { :git => "https://github.com/agung3535/pod-core-tes.git", 
+s.source = { :git => "https://github.com/agung3535/pod-repo-tes.git", 
 :tag => "#{s.version}" }
  
 s.framework = "UIKit"
