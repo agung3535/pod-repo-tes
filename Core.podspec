@@ -41,4 +41,6 @@ Pod::Spec.new do |spec|
  
   #spec.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
+  spec.swift_version = "5.1"
+
 end
